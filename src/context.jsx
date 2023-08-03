@@ -19,7 +19,7 @@ const AppProvider = ({ children }) => {
       type: "HOME_UPDATE",
       payload: {
         name: "DIGITAL M0ve",
-        image: "./images/hero.svg",
+        image: "./images/hero.svg" ,
       },
     });
   };
